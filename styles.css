@@ -1,0 +1,33 @@
+input,textarea{
+    border: none;
+	border-bottom: 2px solid #a4a4f6;
+	background: none;
+	padding: 10px;
+	padding-left: 24px;
+	font-weight: 700;
+	width: 75%;
+	transition: .2s;
+    margin-top: 40px;
+	font-size: 20px;
+}
+select{
+    border: none;
+	border-bottom: 2px solid #D1D1D4;
+	background: none;
+	padding: 10px;
+	padding-left: 24px;
+	font-weight: 1000;
+	width: 75%;
+	transition: .2s;
+    background-color: rgb(190, 171, 235);
+}
+button{
+    width: 160px;
+    background-color: darkred;
+    color: aliceblue;
+    height: 40px;
+    margin-left: 400px;
+    margin-top: 30px;
+    font-size: 20px;
+    border-radius: 20px;
+}

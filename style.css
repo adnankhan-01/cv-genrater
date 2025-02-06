@@ -1,0 +1,12 @@
+.c {font-size: 90px; font-style: italic; position: absolute; margin-top: 0px;}
+.v {font-size: 90px;  margin-left: 30px; position: absolute; margin-top: 30px;}
+.logo{margin-left: 90px;}
+.line{width: 1000px; height: 10px;background: linear-gradient(90deg, #C7C5F4, #776BCC);		 ; margin-left: 93px;}
+#name{font-size: 60px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h2{
+  margin-left: 100px;  
+}
+.doth{
+    width: 20px;
+}
+tr,td{height: 10px;}
